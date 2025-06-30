@@ -2,6 +2,6 @@ package com.solution;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println("Hello wordl");
+        System.out.println("Hello wordl test2");
     }
 }
