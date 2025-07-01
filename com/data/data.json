@@ -1,0 +1,80 @@
+[
+  {
+    "order_no": 1,
+    "order_items": [
+      {
+        "item_name": "book",
+        "item_category": "book",
+        "item_value": 12.49,
+        "isImported": false,
+        "item_count": 1
+      },
+      {
+        "item_name": "music CD",
+        "item_category": "entertainment",
+        "item_value": 14.99,
+        "isImported": false,
+        "item_count": 1
+      },
+      {
+        "item_name": "Chocolate Bar",
+        "item_category": "food",
+        "item_value": 0.85,
+        "isImported": false,
+        "item_count": 1
+      }
+    ]
+  },
+  {
+    "order_no": 2,
+    "order_items": [
+      {
+        "item_name": "imported box of chocolates",
+        "item_category": "food",
+        "item_value": 10.00,
+        "isImported": true,
+        "item_count": 1
+      },
+      {
+        "item_name": "imported bottle of perfume",
+        "item_category": "other",
+        "item_value": 47.50,
+        "isImported": true,
+        "item_count": 1
+      }
+    ]
+  },
+  {
+    "order_no": 3,
+    "order_items": [
+      {
+        "item_name": "imported bottle of perfume",
+        "item_category": "other",
+        "item_value": 27.99,
+        "isImported": true,
+        "item_count": 1
+      },
+      {
+        "item_name": "bottle of perfume",
+        "item_category": "other",
+        "item_value": 18.99,
+        "isImported": false,
+        "item_count": 1
+      },
+      {
+        "item_name": "packet of headache pills",
+        "item_category": "medical",
+        "item_value": 9.75,
+        "isImported": false,
+        "item_count": 1
+      },
+      {
+        "item_name": "box of imported chocolates",
+        "item_category": "food",
+        "item_value": 11.25,
+        "isImported": true,
+        "item_count": 1
+      }
+    ]
+  }
+]
